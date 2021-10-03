@@ -10,4 +10,4 @@ IR system cosists of several modules:
 - clustering
 - user interface
 
-For more details look at reports folder.
+For more details please take a look at reports folder.
