@@ -1,6 +1,7 @@
 # Modern Information Retrieval
 
 Implemented a comprehensive information retrieval system.
+
 IR system cosists of several modules:
 - indexing
 - search and retrieve
