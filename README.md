@@ -9,3 +9,5 @@ IR system cosists of several modules:
 - classification
 - clustering
 - user interface
+
+For more details look at reports folder.
